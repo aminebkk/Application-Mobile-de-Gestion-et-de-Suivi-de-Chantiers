@@ -67,21 +67,18 @@ Chaque utilisateur dispose d'un tableau de bord personnalisé pour gérer les t�
     - Attributs :
         - Nom
         - Quantité
-        - Chantier assigné
         - **Période :** Matin ou Soir.
 
 3. **Véhicules :**
     - Attributs :
         - Modèle
         - Immatriculation
-        - Chantier assigné
         - **Période :** Matin ou Soir.
 
 4. **Personnels :**
     - Attributs :
         - Nom du groupe
         - Nombre de personnes
-        - Chantier assigné
         - **Période :** Matin ou Soir.
 
 5. **Rapports :**
