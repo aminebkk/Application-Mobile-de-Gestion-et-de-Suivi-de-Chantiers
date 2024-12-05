@@ -1,7 +1,7 @@
 # Projet Mobile avec Flutter et Appwrite
 
 ## Description
-Cette application mobile est un outil de gestion de chantiers pour deux types d'utilisateurs :
+Cette application mobile est un outil de gestion de chantiers pour trois types d'utilisateurs :
 1. **Responsable de Chantier**
 2. **Chef de Chantier**
 3. **Equipier**
